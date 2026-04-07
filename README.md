@@ -7,7 +7,9 @@ Configurar un flujo de trabajo profesional que asegure la calidad del código me
 
 ## Requerimientos Técnicos Implementados
 * **Gestión de Ramas:** Uso de modelo GitFlow/TBD con ramas `main` y `develop`.
+
 * **Automatización:** CI configurado con GitHub Actions para validar archivos Markdown.
+
 * **Documentación:** Estándares avanzados de Markdown aplicados en todos los archivos del proyecto.
 
 ## Instalación y Uso
