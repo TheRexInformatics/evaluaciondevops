@@ -1,6 +1,5 @@
 name: "Lint Markdown"
 
-# El workflow se dispara en cada push o pull_request [cite: 20]
 on:
   push:
     branches: [ "main", "develop" ]
