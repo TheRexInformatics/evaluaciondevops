@@ -7,11 +7,13 @@ Este repositorio ha sido creado para demostrar la configuración de un entorno c
 Configurar un flujo de trabajo profesional que asegure la calidad del código mediante la revisión automática de sintaxis.
 
 ## Requerimientos Técnicos Implementados
-* **Gestión de Ramas:** Uso de modelo GitFlow/TBD con ramas `main` y `develop`.
+
+* **Gestión de Ramas:** Uso de modelo GitFlow/TBD con ramas `main` y `develop`[cite: 8].
 * **Automatización:** CI configurado con GitHub Actions para validar archivos Markdown.
-* **Documentación:** Estándares avanzados de Markdown aplicados en todos los archivos.
+* **Documentación:** Estándares avanzados de Markdown aplicados en todos los archivos[cite: 11].
 
 ## Instalación y Uso
+
 Para replicar este entorno localmente:
 
 1. Clonar el repositorio:
