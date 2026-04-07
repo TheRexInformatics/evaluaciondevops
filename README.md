@@ -15,8 +15,10 @@ Este repositorio ha sido creado para demostrar la configuración de un entorno c
 * **Documentación:** Estándares avanzados de Markdown aplicados en todos los archivos del proyecto.
 
 ## Instalación y Uso
-Para replicar este entorno localmente:
+
+### Para replicar este entorno localmente:
 
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/TheRexInformatics/evaluaciondevops.git](https://github.com/TheRexInformatics/evaluaciondevops.git)
+   
