@@ -2,7 +2,7 @@
 
 Este repositorio ha sido creado para demostrar la configuración de un entorno colaborativo utilizando **Git**, **GitHub Actions** y estándares de documentación con **Markdown**.
 
-## Objetivo
+## Objetivo: Realizar una actividad para completar una evaluación
 
 Configurar un flujo de trabajo profesional que asegure la calidad del código mediante la revisión automática de sintaxis.
 
